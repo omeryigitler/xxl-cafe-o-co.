@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Café Ö Co.",
+  "description": "A modern, luxurious coffee shop website for early risers and athletes, featuring Apple-style minimalism and smooth scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
