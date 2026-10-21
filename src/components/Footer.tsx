@@ -128,6 +128,12 @@ export function Footer() {
         </div>
 
       </div>
+    
+      <div className="relative z-10 w-full px-4 pt-6 text-center">
+        <a href="https://omeryigitler.com" target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[44px] max-w-full flex-wrap items-center justify-center gap-x-1 text-xs leading-relaxed underline-offset-4 transition-colors hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 motion-reduce:transition-none text-neutral-500 hover:text-black dark:text-neutral-400 dark:hover:text-white">
+          <span>Designed &amp; developed by</span> <span className="font-medium">Ömer YİĞİTLER</span><span aria-hidden="true"> ↗</span>
+        </a>
+      </div>
     </footer>
   );
 }
